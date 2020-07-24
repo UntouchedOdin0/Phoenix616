@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-My name is Max. I am a 27 year old software engineer from Germany.
+My name is Max, I am a 27 year old software engineer from Germany.
 
 I am creating lots of different open source stuff out of pizza and beer, mostly in Java and for Minecraft but I have some other random projects as well, just check out [my repos](https://github.com/Phoenix616?tab=repositories)! :)
 
