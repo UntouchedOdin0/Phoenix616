@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-I am a 27 year old software engineer from Germany.
+My name is Max. I am a 27 year old software engineer from Germany.
 
 I am creating lots of different open source stuff out of pizza and beer, mostly in Java and for Minecraft but I have some other random projects as well, just check out [my repos](https://github.com/Phoenix616?tab=repositories)! :)
 
@@ -14,6 +14,10 @@ I also stream on [Twitch.tv](https://s.moep.tv/tmtwitch), normally it's gaming b
 
 <details>
   <summary><b>Even more about me</b></summary>
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Phoenix616&&show_icons=true&theme=default&count_private=true)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Phoenix616&&show_icons=true&theme=default&count_private=true)
 
 #### Stuff I like 👍
 - 🦙 Llamas!
