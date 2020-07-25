@@ -2,11 +2,11 @@
 
 My name is Max, I am a 27 year old software engineer from Germany.
 
-I am creating lots of different open source stuff out of pizza and beer, mostly in Java and for Minecraft but I have some other random projects as well, just check out [my repos](https://github.com/Phoenix616?tab=repositories)! :)
+I am creating lots of different open source stuff out of pizza and beer, mostly in Java and for Minecraft but I have some other random projects as well, just check out [my repos](https://github.com/Phoenix616?tab=repositories)! 😊
 
-Most of the projects are done for my own (completely free) survival Minecraft server [Minebench.de](https://s.moep.tv/minebench). (Lots of its code can be found [here](https://github.com/Minebench) and is open source too!) I have also written a good amount of Minecraft related libraries like [InventoryGui](https://github.com/Phoenix616/InventoryGui) and [MineDown](https://github.com/Phoenix616/MineDown) and am currently also maintaining [ChestShop 3](https://github.com/ChestShop-authors/ChestShop-3) and [TravelPortals](https://github.com/cppchriscpp/TravelPortals). And I contributed to Bukkit, Spigot and Paper too! (See my own Paper fork [Origami](https://github.com/Minebench/Origami/) for even more experimental patches!)
+Most of the projects are done for my own (completely free) survival Minecraft server [Minebench.de](https://s.moep.tv/minebench). (Lots of its code can be found [here](https://github.com/Minebench) and is open source too!) I have also written a good amount of Minecraft related libraries like [InventoryGui](https://github.com/Phoenix616/InventoryGui), [MineDown](https://github.com/Phoenix616/MineDown) and [lang](https://github.com/Phoenix616/lang) and am currently maintaining [ChestShop 3](https://github.com/ChestShop-authors/ChestShop-3) and [TravelPortals](https://github.com/cppchriscpp/TravelPortals). On top of all of these projects I contributed to Bukkit, Spigot and Paper too! (See my own Paper fork [Origami](https://github.com/Minebench/Origami/) for even more experimental patches!)
 
-Hours invested into different projects and tasks:
+*Hours invested into different projects and tasks:*
 
 ![](https://badges.phoenix616.dev/Minebench.svg) ![](https://badges.phoenix616.dev/SpigotStaffing.svg) ![](https://badges.phoenix616.dev/ChestShop.svg) ![](https://badges.phoenix616.dev/Server.svg)
 
