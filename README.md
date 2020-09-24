@@ -37,7 +37,8 @@ I also stream on [Twitch.tv](https://s.moep.tv/tmtwitch), normally it's gaming b
 - [SpigotMc](https://www.spigotmc.org/members/phoenix616.3651/)
 
 #### Money 🤑
-Developemnt costs time and almost all my work is open source! If you too believe in the massive value of open source software and want to support me directly then I would highly appreciate that! [Click here](https://tip.phoenix616.dev) to learn more.
+Development costs time and almost all my work is open source! If you too believe in the massive value of open source software and want to support me directly then I would highly appreciate that! [Click here](https://tip.phoenix616.dev) to learn more.
 
-Options include [GitHub sponsors](https://github.com/sponsors/Phoenix616), Paypal, Patreon and varius crypto currencies!
+Options include [GitHub sponsors](https://github.com/sponsors/Phoenix616), Paypal, Patreon and various crypto currencies!
 </details>
+ 
