@@ -10,7 +10,7 @@ Most of the projects are done for my own (completely free) survival Minecraft se
 
 ![](https://badges.phoenix616.dev/Minebench.svg) ![](https://badges.phoenix616.dev/SpigotStaffing.svg) ![](https://badges.phoenix616.dev/ChestShop.svg) ![](https://badges.phoenix616.dev/Server.svg)
 
-I also stream on [Twitch.tv](https://s.moep.tv/tmtwitch), normally it's gaming but you might catch me coding on Minecraft stuff as well! I usually just stream in my native language German but I have spoken English for more than half of my live so just ask and hang out!
+I also stream on [Twitch.tv](https://s.moep.tv/tmtwitch), normally it's gaming but you might catch me coding on Minecraft stuff as well! I usually just stream in my native language German but I have communicated in English for more than half of my life so just ask and hang out!
 
 <details>
   <summary><b>Even more about me</b></summary>
@@ -37,8 +37,8 @@ I also stream on [Twitch.tv](https://s.moep.tv/tmtwitch), normally it's gaming b
 - [SpigotMc](https://www.spigotmc.org/members/phoenix616.3651/)
 
 #### Money 🤑
-Development costs time and almost all my work is open source! If you too believe in the massive value of open source software and want to support me directly then I would highly appreciate that! [Click here](https://tip.phoenix616.dev) to learn more.
+Development costs time and almost all my work is open source! If you too believe in the massive value of open source software and want to support me directly then I would highly appreciate that!
 
-Options include [GitHub sponsors](https://github.com/sponsors/Phoenix616), Paypal, Patreon and various crypto currencies!
+If you want to support me then I have setup a [page](https://tip.phoenix616.dev) which shows all the different ways. Options include [GitHub sponsors](https://github.com/sponsors/Phoenix616), Paypal, Patreon and various crypto currencies!
 </details>
  
