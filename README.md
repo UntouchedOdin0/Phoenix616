@@ -15,9 +15,9 @@ I also stream on [Twitch.tv](https://s.moep.tv/tmtwitch), normally it's gaming b
 <details>
   <summary><b>Even more about me</b></summary>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Phoenix616&&show_icons=true&theme=default&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Phoenix616&&show_icons=true&theme=gotham&count_private=true)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Phoenix616&&show_icons=true&theme=default&count_private=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Phoenix616&&show_icons=true&theme=gotham&count_private=true)
 
 #### Stuff I like 👍
 - 🦙 Llamas!
