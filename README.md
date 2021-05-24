@@ -15,9 +15,9 @@ I also stream on [Twitch.tv](https://tmtwitch.phoenix616.dev), normally it's gam
 <details>
   <summary><b>Even more about me</b></summary>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Phoenix616&&show_icons=true&theme=gotham&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Phoenix616&&show_icons=true&theme=dark&count_private=true) ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Phoenix616&&show_icons=true&theme=dark&count_private=true)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Phoenix616&&show_icons=true&theme=gotham&count_private=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Phoenix616&&show_icons=true&theme=dark&count_private=true)
 
 #### Stuff I like 👍
 - 🦙 Llamas!
